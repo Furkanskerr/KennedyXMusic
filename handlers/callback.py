@@ -37,7 +37,7 @@ async def cbstart(_, query: CallbackQuery):
 
 𝐖𝐀𝐗𝐀 𝐋𝐎 𝐃𝐄𝐒𝐈𝐆𝐍 𝐆𝐀𝐑𝐄𝐘𝐀𝐘 𝐁𝐎𝐓𝐊𝐀𝐍 𝐈𝐍𝐔𝐔 𝐊𝐀𝐆𝐀 𝐒𝐇𝐈𝐃𝐎 𝐆𝐑𝐎𝐔𝐏𝐊𝐀𝐃𝐀 𝐖𝐀𝐗𝐀𝐃 𝐊𝐀 𝐃𝐀𝐋𝐁𝐀𝐓𝐎!
 
-𝐁𝐎𝐓𝐊𝐀𝐍 𝐖𝐀𝐗𝐀 𝐒𝐈 𝐐𝐀𝐀𝐒𝐀 𝐔𝐋𝐄𝐇 [丹匕匕Ａ匚Ｋ](https://t.me/Yaamiin)....𝙈𝘼𝘿𝙀 𝙒𝙄𝙏𝙃 ❤️
+𝐁𝐎𝐓𝐊𝐀𝐍 𝐖𝐀𝐗𝐀 𝐒𝐈 𝐐𝐀𝐀𝐒𝐀 𝐔𝐋𝐄𝐇 [Owner](https://t.me/MajesteSahip)....𝙈𝘼𝘿𝙀 𝙒𝙄𝙏𝙃 ❤️
 
 𝙃𝙀𝙍𝙀 𝘼𝙍𝙀 𝙎𝙊𝙈𝙀 𝘾𝙈𝘿𝙎 𝙏𝙊 𝙐𝙎𝙀 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏, 𝘾𝙇𝙄𝘾𝙆 » **/help**""",
         reply_markup=InlineKeyboardMarkup(
@@ -47,7 +47,7 @@ async def cbstart(_, query: CallbackQuery):
                         "➕ Kᴜᴅᴀʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                        "​​Oᴡɴᴇʀ 🥀", url="https://t.me/@Somaliprogrammer"
+                        "​​Oᴡɴᴇʀ 🥀", url="https://t.me/@MajesteSahip"
                     ),
                     InlineKeyboardButton(
                         "Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 👥", url=f"https://t.me/{GROUP_SUPPORT}")
@@ -91,7 +91,7 @@ __{bn} licensed under the GNU General Public License v.3.0__
             [
                 [
                     InlineKeyboardButton(
-                        "Oᴡɴᴇʀ​​", url="https://t.me/Somalihacker1"
+                        "Oᴡɴᴇʀ​​", url="https://t.me/MajesteSahip"
                     ),
                     InlineKeyboardButton(
                         "Bᴀᴄᴋ​", callback_data="cbadvanced"
@@ -108,7 +108,7 @@ async def cbhelp(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""<b>{alv} Halkan Wa qeybta  caawinta !</b>
 
-**La xiriir @Yaamiin **
+**La xiriir @MajesteSahip **
 
 🦄 Bot by @{OWNER_NAME}""",
         reply_markup=InlineKeyboardMarkup(
